@@ -23,7 +23,7 @@ Calculadora simples desenvolvida em Java utilizando Swing.
 3. Execute a classe principal do projeto.
 4. ## Tela da Aplicação
 
-![Calculadora Soma](screenshot.png)
+![Calculadora Soma](geradordesoma.png)
 
 ## Autor
 
