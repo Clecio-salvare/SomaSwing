@@ -21,6 +21,9 @@ Calculadora simples desenvolvida em Java utilizando Swing.
 1. Clone o repositório.
 2. Abra o projeto no NetBeans.
 3. Execute a classe principal do projeto.
+4. ## Tela da Aplicação
+
+![Calculadora Soma](geradordesoma.png)
 
 ## Autor
 
